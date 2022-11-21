@@ -1,1 +1,19 @@
+body {
+  background-color: rgb(0,128,0, 0.5);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7G-R9duZjuz-iiwyiqlqfeaSWyimq2koWtg&usqp=CAU");
+  background-repeat: repeat-x;
+  color: white;
+  font-family: Arial, Times New Roman, sans-serif;
+  margin: 10% 10%
+}
 
+.experience-header {
+  border-top: 1px double white;
+  border-bottom: 1px double white;
+}
+
+.name {
+  text-align: center;
+  font-size: 18px;
+  padding-left: 10px;
+}
